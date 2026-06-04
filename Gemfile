@@ -4,6 +4,12 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.5"
 
+# plugins
+
+gem "jekyll-paginate"
+
+# other things that i'm not smart enough to know what they do
+
 gem "html-proofer", "~> 5.0", group: :test
 
 platforms :windows, :jruby do

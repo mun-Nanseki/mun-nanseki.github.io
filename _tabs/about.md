@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
+# hi
+i'm mun Nanseki and this is my personal dumping ground for mtg related things. if i knew how to github good i'd probably use it for other things but i don't so i won't
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+if you're here i'm assuming it's bc you're a magic player who likes cube or likes mse
+
+[link to my egghub](/egghub)
